@@ -1,0 +1,27 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1d1e24;
+    color: white;
+    padding: 12px;
+    width: 70vw;
+    margin: 0 auto;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+img {
+    width: 100px;
+    height: auto;
+}
+h1 {
+    color: #6ddaea;
+}

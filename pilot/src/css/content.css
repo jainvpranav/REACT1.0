@@ -1,0 +1,21 @@
+.container1 {
+    background-color: #323238;
+    color: white;
+    width: 70vw;
+    margin: 0 auto;
+    padding: 12px;
+}
+
+.fun {
+    font-size: 4rem;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+
+ul li::marker {
+    color: #6ddaea;
+}
