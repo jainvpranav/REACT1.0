@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header--nav {
+    height: 12vh;
+    display: flex;
+    padding: 20px;
+    box-shadow: 0px 2.98px 7.45px rgba(0,0,0,0.1);
+}
+.header--img {
+    width: auto;
+    height: 7vh;
+}
+
+.hero--section {
+    padding: 20px;
+}
+
+.hero--img {
+    width: 80vw;
+    height: auto;
+    border-radius: 2vw;
+}
+
+.hero--section h1 {
+    display: flex;
+    font-size: 2rem;
+}
+
+.hero--section p { 
+    max-width: 40vw;
+    text-align: justify;
+}
